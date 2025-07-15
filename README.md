@@ -21,7 +21,7 @@ Một trang web được xây dựng bằng **React.js** cho frontend. Trang web
 
 ## Frontend .env
 
-- Tạo file .env trong thư mục frontend: REACT_APP_API_URL=http://localhost:3000/api
+- Tạo file .env trong thư mục frontend: REACT_APP_API_URL=https://backendantoree.onrender.com/api
 
 ## 🚀 Chạy ứng dụng
 
