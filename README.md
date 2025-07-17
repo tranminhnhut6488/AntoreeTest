@@ -28,4 +28,4 @@ Một trang web được xây dựng bằng **React.js** cho frontend. Trang web
 - Chạy frontend:
     npm start
 
-Frontend sẽ chạy tại http://localhost:3000
+Frontend sẽ chạy tại https://antoree-test-cmx9epmal-minhnhuts-projects.vercel.app/
